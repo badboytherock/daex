@@ -1,0 +1,11 @@
+app id : 1513014208982248
+app secred : 7be0a9c423d7a7205e364a3f8179739d
+
+
+
+twitter
+
+https://apps.twitter.com/app/7731403
+
+consumer key : byViMetbWch80qlMmOktbEGZr
+consumer secret : t2j1YcxahJgcB4sUmTg1XpwrGgMJHwGHjtzGsByxkdPY4OMSPE
