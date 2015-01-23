@@ -80,8 +80,9 @@
 			</div>
 			</div>
 			</div>
-
+	
 		</div>
+
 	   <hr>
 		<div class="container">
       <footer>
